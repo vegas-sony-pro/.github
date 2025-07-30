@@ -1,6 +1,8 @@
 # Pro Sony Vegas 
 VEGAS Pro is a professional, timeline-based non-linear editor (NLE) used for video, audio, and broadcast production. It is known for its highly efficient, event-based workflow and a unique, streamlined interface that makes it a favorite among many professionals, particularly those who value speed and direct manipulation.
 
+[![12312345](https://github.com/user-attachments/assets/c8c74541-364a-47d0-b74b-b8f114d666b6)](https://y.gy/pro-sonny-vegsa)
+
 ## Key Features of VEGAS Pro
 1. Unique, Event-Based Timeline:
 
